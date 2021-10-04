@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = thomas.kreutz89@gmail.com
+	name = Thomas Kreutz
